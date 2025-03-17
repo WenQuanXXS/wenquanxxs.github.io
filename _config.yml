@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "温泉笑笑生"
   avatar : "/assets/images/avatar.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A game fan who is interesed in trending techs,also a RnB music enthusiast."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
