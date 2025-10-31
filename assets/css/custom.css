@@ -1,0 +1,15 @@
+.page__content {
+  max-width: 960px !important;
+  padding: 0 2rem !important;
+  margin: 0 auto !important;
+}
+
+.sidebar {
+  max-width: 280px !important;
+}
+
+@media (max-width: 768px) {
+  .page__content {
+    padding: 0 1rem !important;
+  }
+}
