@@ -5,8 +5,6 @@ categories:
   - blog
 tags:
   - Jekyll
-  - java
-  - go
 ---
 
 # 一个简单的rpc学习项目
