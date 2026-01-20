@@ -1,6 +1,6 @@
 ---
 title: "Try to debug my mind"
-date: 2026-01-20T21:37:30-08:00
+date: 2026-01-19T21:37:30-08:00
 categories:
   - blog
 tags:
